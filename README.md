@@ -1,4 +1,7 @@
 # R-Instat Help
-This repository contains the latest uncompiled (.hnd) and compiled (.cmd) versions of the help file for the statistics software package [R-Instat](https://github.com/africanmathsinitiative/Instat). As with R-Instat itself, this help file is open source. Contributions and suggestions are welcomed.
+This repository contains help and documentation files for the [R-Instat](https://github.com/africanmathsinitiative/R-Instat) project.
 
-To learn more about R-Instat, visit [it's repository](https://github.com/africanmathsinitiative/Instat).
+This includes:
+
+- the latest uncompiled (.hnd) and compiled (.cmd) versions of the built in R-Instat help file.
+- screenshots and images used in the [R-Instat wiki](https://github.com/africanmathsinitiative/R-Instat/wiki) pages.
